@@ -5,12 +5,22 @@
     <link>https://magic3007.github.io/post/</link>
       <atom:link href="https://magic3007.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jing Mai</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jing Mai</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://magic3007.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://magic3007.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Our recent work, &#34;Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility&#34; is accepted by DAC&#39;2022.</title>
+      <link>https://magic3007.github.io/post/slicem_dac2022/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://magic3007.github.io/post/slicem_dac2022/</guid>
+      <description>&lt;p&gt;Our recent work, &lt;strong&gt;&amp;ldquo;Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility&amp;rdquo;&lt;/strong&gt; is accepted by DAC&#39;2022.
+Cheers and thanks to all the co-authors, &lt;a href=&#34;https://mengyibai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yibai Meng&lt;/a&gt;, Zhixiong Di and &lt;a href=&#34;https://yibolin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yibo Lin&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
