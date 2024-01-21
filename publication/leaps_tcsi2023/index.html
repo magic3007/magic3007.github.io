@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="This paper proposes OpenPARF, an open-source placement and routing framework for large-scale FPGA designs. OpenPARF is implemented with the deep learning toolkit PyTorch and supports massive parallelization on GPU. The framework proposes a novel asymmetric multi-electrostatic field system to solve FPGA placement. It considers fine-grained routing resources inside configurable logic blocks (CLBs) for FPGA routing and supports large-scale irregular routing resource graphs. Experimental results on ISPD 2016 and ISPD 2017 FPGA contest benchmarks and industrial benchmarks demonstrate that OpenPARF can achieve 0.4-12.7% improvement in routed wirelength and more than 2× speedup in placement. We believe that OpenPARF can pave the road for developing FPGA physical design engines and stimulate further research on related topics." />
+  <meta name="description" content="Multi-die FPGAs are crucial components in modern computing systems, particularly for high-performance applications such as artificial intelligence and data centers. Super long lines (SLLs) provide interconnections between super logic regions (SLRs) for a multi-die FPGA on a silicon interposer. They have significantly higher delay compared to regular interconnects, which need to be minimized. With the increase in design complexity, the growth of SLLs gives rise to challenges in timing and power closure. Existing placement algorithms focus on optimizing the number of SLLs but often face limitations due to specific topologies of SLRs. Furthermore, they fall short of achieving continuous optimization of SLLs throughout the entire placement process. This highlights the necessity for more advanced and adaptable solutions. In this paper, we propose LEAPS, a comprehensive, systematic, and adaptable multi-die FPGA placement algorithm for SLL minimization. Our contributions are threefold: 1) proposing a high-performance global placement algorithm for multi-die FPGAs that optimizes the number of SLLs while addressing other essential design constraints such as wirelength, routability, and clock routing; 2) introducing a versatile method for more complex SLR topologies of multi-die FPGAs, surpassing the limitations of existing approaches; and 3) executing continuous optimization of SLL counts across the whole placement stages, including global placement (GP), legalization (LG), and detailed placement (DP). Experimental results demonstrate the effectiveness of LEAPS in reducing SLLs and enhancing circuit performance. Compared with the most recent state-of-the-art (SOTA) method, LEAPS achieves an average reduction of 43.08% in SLL counts and 9.99% in HPWL while exhibiting a notable 34.34x improvement in runtime." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://magic3007.github.io/publication/openparf_asicon2023/" />
+  <link rel="alternate" hreflang="en-us" href="https://magic3007.github.io/publication/leaps_tcsi2023/" />
 
   
   
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_huaa231b862f7b96a72d0e6b088fa39ba5_414179_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_huaa231b862f7b96a72d0e6b088fa39ba5_414179_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://magic3007.github.io/publication/openparf_asicon2023/" />
+  <link rel="canonical" href="https://magic3007.github.io/publication/leaps_tcsi2023/" />
 
   
   
@@ -299,18 +299,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Jing Mai" />
-  <meta property="og:url" content="https://magic3007.github.io/publication/openparf_asicon2023/" />
-  <meta property="og:title" content="OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit (Invited Paper) | Jing Mai" />
-  <meta property="og:description" content="This paper proposes OpenPARF, an open-source placement and routing framework for large-scale FPGA designs. OpenPARF is implemented with the deep learning toolkit PyTorch and supports massive parallelization on GPU. The framework proposes a novel asymmetric multi-electrostatic field system to solve FPGA placement. It considers fine-grained routing resources inside configurable logic blocks (CLBs) for FPGA routing and supports large-scale irregular routing resource graphs. Experimental results on ISPD 2016 and ISPD 2017 FPGA contest benchmarks and industrial benchmarks demonstrate that OpenPARF can achieve 0.4-12.7% improvement in routed wirelength and more than 2× speedup in placement. We believe that OpenPARF can pave the road for developing FPGA physical design engines and stimulate further research on related topics." /><meta property="og:image" content="https://magic3007.github.io/media/icon_huaa231b862f7b96a72d0e6b088fa39ba5_414179_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://magic3007.github.io/publication/leaps_tcsi2023/" />
+  <meta property="og:title" content="LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization | Jing Mai" />
+  <meta property="og:description" content="Multi-die FPGAs are crucial components in modern computing systems, particularly for high-performance applications such as artificial intelligence and data centers. Super long lines (SLLs) provide interconnections between super logic regions (SLRs) for a multi-die FPGA on a silicon interposer. They have significantly higher delay compared to regular interconnects, which need to be minimized. With the increase in design complexity, the growth of SLLs gives rise to challenges in timing and power closure. Existing placement algorithms focus on optimizing the number of SLLs but often face limitations due to specific topologies of SLRs. Furthermore, they fall short of achieving continuous optimization of SLLs throughout the entire placement process. This highlights the necessity for more advanced and adaptable solutions. In this paper, we propose LEAPS, a comprehensive, systematic, and adaptable multi-die FPGA placement algorithm for SLL minimization. Our contributions are threefold: 1) proposing a high-performance global placement algorithm for multi-die FPGAs that optimizes the number of SLLs while addressing other essential design constraints such as wirelength, routability, and clock routing; 2) introducing a versatile method for more complex SLR topologies of multi-die FPGAs, surpassing the limitations of existing approaches; and 3) executing continuous optimization of SLL counts across the whole placement stages, including global placement (GP), legalization (LG), and detailed placement (DP). Experimental results demonstrate the effectiveness of LEAPS in reducing SLLs and enhancing circuit performance. Compared with the most recent state-of-the-art (SOTA) method, LEAPS achieves an average reduction of 43.08% in SLL counts and 9.99% in HPWL while exhibiting a notable 34.34x improvement in runtime." /><meta property="og:image" content="https://magic3007.github.io/media/icon_huaa231b862f7b96a72d0e6b088fa39ba5_414179_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://magic3007.github.io/media/icon_huaa231b862f7b96a72d0e6b088fa39ba5_414179_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2023-09-01T00:00:00&#43;00:00"
+        content="2023-12-18T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2023-09-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-12-18T00:00:00&#43;00:00">
   
 
   
@@ -332,16 +332,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://magic3007.github.io/publication/openparf_asicon2023/"
+    "@id": "https://magic3007.github.io/publication/leaps_tcsi2023/"
   },
-  "headline": "OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit (Invited Paper)",
+  "headline": "LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization",
   
-  "datePublished": "2023-09-01T00:00:00Z",
-  "dateModified": "2023-09-01T00:00:00Z",
+  "datePublished": "2023-12-18T00:00:00Z",
+  "dateModified": "2023-12-18T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Jing Mai"
+    "name": "Zhixiong Di"
   },
   
   "publisher": {
@@ -352,7 +352,7 @@
       "url": "https://magic3007.github.io/media/icon_huaa231b862f7b96a72d0e6b088fa39ba5_414179_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "This paper proposes OpenPARF, an open-source placement and routing framework for large-scale FPGA designs. OpenPARF is implemented with the deep learning toolkit PyTorch and supports massive parallelization on GPU. The framework proposes a novel asymmetric multi-electrostatic field system to solve FPGA placement. It considers fine-grained routing resources inside configurable logic blocks (CLBs) for FPGA routing and supports large-scale irregular routing resource graphs. Experimental results on ISPD 2016 and ISPD 2017 FPGA contest benchmarks and industrial benchmarks demonstrate that OpenPARF can achieve 0.4-12.7% improvement in routed wirelength and more than 2× speedup in placement. We believe that OpenPARF can pave the road for developing FPGA physical design engines and stimulate further research on related topics."
+  "description": "Multi-die FPGAs are crucial components in modern computing systems, particularly for high-performance applications such as artificial intelligence and data centers. Super long lines (SLLs) provide interconnections between super logic regions (SLRs) for a multi-die FPGA on a silicon interposer. They have significantly higher delay compared to regular interconnects, which need to be minimized. With the increase in design complexity, the growth of SLLs gives rise to challenges in timing and power closure. Existing placement algorithms focus on optimizing the number of SLLs but often face limitations due to specific topologies of SLRs. Furthermore, they fall short of achieving continuous optimization of SLLs throughout the entire placement process. This highlights the necessity for more advanced and adaptable solutions. In this paper, we propose LEAPS, a comprehensive, systematic, and adaptable multi-die FPGA placement algorithm for SLL minimization. Our contributions are threefold: 1) proposing a high-performance global placement algorithm for multi-die FPGAs that optimizes the number of SLLs while addressing other essential design constraints such as wirelength, routability, and clock routing; 2) introducing a versatile method for more complex SLR topologies of multi-die FPGAs, surpassing the limitations of existing approaches; and 3) executing continuous optimization of SLL counts across the whole placement stages, including global placement (GP), legalization (LG), and detailed placement (DP). Experimental results demonstrate the effectiveness of LEAPS in reducing SLLs and enhancing circuit performance. Compared with the most recent state-of-the-art (SOTA) method, LEAPS achieves an average reduction of 43.08% in SLL counts and 9.99% in HPWL while exhibiting a notable 34.34x improvement in runtime."
 }
 </script>
 
@@ -368,11 +368,11 @@
 
 
 
-  <title>OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit (Invited Paper) | Jing Mai</title>
+  <title>LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization | Jing Mai</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="2b97b6e92f6ecb1f10f319734f853a55" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="10ba50457eca06983fd687e3802743a5" >
 
   
   
@@ -791,7 +791,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit (Invited Paper)</h1>
+  <h1>LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization</h1>
 
   
 
@@ -808,12 +808,11 @@
   <div>
     
 
-  <span class="author-highlighted">
-      Jing Mai</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Jiarui Wang</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+  <span >
       Zhixiong Di</span>, <span >
-      Guojie Luo</span>, <span >
-      Yun Liang</span>, <span >
+      Runzhe Tao</span>, <span class="author-highlighted">
+      Jing Mai</span>, <span >
+      Lin Chen</span>, <span >
       Yibo Lin</span>
   </div>
   
@@ -825,7 +824,7 @@
     
       
     
-    September 2023
+    December 2023
   </span>
   
 
@@ -850,6 +849,48 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/leaps_tcsi2023/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/TCSI.2023.3340554" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
 
   
 </div>
@@ -860,7 +901,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">This paper proposes OpenPARF, an open-source placement and routing framework for large-scale FPGA designs. OpenPARF is implemented with the deep learning toolkit PyTorch and supports massive parallelization on GPU. The framework proposes a novel asymmetric multi-electrostatic field system to solve FPGA placement. It considers fine-grained routing resources inside configurable logic blocks (CLBs) for FPGA routing and supports large-scale irregular routing resource graphs. Experimental results on ISPD 2016 and ISPD 2017 FPGA contest benchmarks and industrial benchmarks demonstrate that OpenPARF can achieve 0.4-12.7% improvement in routed wirelength and more than 2× speedup in placement. We believe that OpenPARF can pave the road for developing FPGA physical design engines and stimulate further research on related topics.</p>
+    <p class="pub-abstract">Multi-die FPGAs are crucial components in modern computing systems, particularly for high-performance applications such as artificial intelligence and data centers. Super long lines (SLLs) provide interconnections between super logic regions (SLRs) for a multi-die FPGA on a silicon interposer. They have significantly higher delay compared to regular interconnects, which need to be minimized. With the increase in design complexity, the growth of SLLs gives rise to challenges in timing and power closure. Existing placement algorithms focus on optimizing the number of SLLs but often face limitations due to specific topologies of SLRs. Furthermore, they fall short of achieving continuous optimization of SLLs throughout the entire placement process. This highlights the necessity for more advanced and adaptable solutions. In this paper, we propose LEAPS, a comprehensive, systematic, and adaptable multi-die FPGA placement algorithm for SLL minimization. Our contributions are threefold: 1) proposing a high-performance global placement algorithm for multi-die FPGAs that optimizes the number of SLLs while addressing other essential design constraints such as wirelength, routability, and clock routing; 2) introducing a versatile method for more complex SLR topologies of multi-die FPGAs, surpassing the limitations of existing approaches; and 3) executing continuous optimization of SLL counts across the whole placement stages, including global placement (GP), legalization (LG), and detailed placement (DP). Experimental results demonstrate the effectiveness of LEAPS in reducing SLLs and enhancing circuit performance. Compared with the most recent state-of-the-art (SOTA) method, LEAPS achieves an average reduction of 43.08% in SLL counts and 9.99% in HPWL while exhibiting a notable 34.34x improvement in runtime.</p>
     
 
     
@@ -871,8 +912,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
           </div>
         </div>
@@ -888,7 +929,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">International Conference on ASIC (ASICON) 2023</div>
+          <div class="col-12 col-md-9">IEEE Transactions on Circuits and Systems I: Regular Papers (TCSI) 2023</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -933,7 +974,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://magic3007.github.io/publication/openparf_asicon2023/&amp;text=OpenPARF:%20An%20Open-Source%20Placement%20and%20Routing%20Framework%20for%20Large-Scale%20Heterogeneous%20FPGAs%20with%20Deep%20Learning%20Toolkit%20%28Invited%20Paper%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://magic3007.github.io/publication/leaps_tcsi2023/&amp;text=LEAPS:%20Topological-Layout-Adaptable%20Multi-Die%20FPGA%20Placement%20for%20Super%20Long%20Line%20Minimization" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -946,7 +987,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://magic3007.github.io/publication/openparf_asicon2023/&amp;t=OpenPARF:%20An%20Open-Source%20Placement%20and%20Routing%20Framework%20for%20Large-Scale%20Heterogeneous%20FPGAs%20with%20Deep%20Learning%20Toolkit%20%28Invited%20Paper%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://magic3007.github.io/publication/leaps_tcsi2023/&amp;t=LEAPS:%20Topological-Layout-Adaptable%20Multi-Die%20FPGA%20Placement%20for%20Super%20Long%20Line%20Minimization" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -959,7 +1000,7 @@
       
       
       <li>
-        <a href="mailto:?subject=OpenPARF:%20An%20Open-Source%20Placement%20and%20Routing%20Framework%20for%20Large-Scale%20Heterogeneous%20FPGAs%20with%20Deep%20Learning%20Toolkit%20%28Invited%20Paper%29&amp;body=https://magic3007.github.io/publication/openparf_asicon2023/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=LEAPS:%20Topological-Layout-Adaptable%20Multi-Die%20FPGA%20Placement%20for%20Super%20Long%20Line%20Minimization&amp;body=https://magic3007.github.io/publication/leaps_tcsi2023/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -972,7 +1013,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://magic3007.github.io/publication/openparf_asicon2023/&amp;title=OpenPARF:%20An%20Open-Source%20Placement%20and%20Routing%20Framework%20for%20Large-Scale%20Heterogeneous%20FPGAs%20with%20Deep%20Learning%20Toolkit%20%28Invited%20Paper%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://magic3007.github.io/publication/leaps_tcsi2023/&amp;title=LEAPS:%20Topological-Layout-Adaptable%20Multi-Die%20FPGA%20Placement%20for%20Super%20Long%20Line%20Minimization" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -985,7 +1026,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=OpenPARF:%20An%20Open-Source%20Placement%20and%20Routing%20Framework%20for%20Large-Scale%20Heterogeneous%20FPGAs%20with%20Deep%20Learning%20Toolkit%20%28Invited%20Paper%29%20https://magic3007.github.io/publication/openparf_asicon2023/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=LEAPS:%20Topological-Layout-Adaptable%20Multi-Die%20FPGA%20Placement%20for%20Super%20Long%20Line%20Minimization%20https://magic3007.github.io/publication/leaps_tcsi2023/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -998,7 +1039,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://magic3007.github.io/publication/openparf_asicon2023/&amp;title=OpenPARF:%20An%20Open-Source%20Placement%20and%20Routing%20Framework%20for%20Large-Scale%20Heterogeneous%20FPGAs%20with%20Deep%20Learning%20Toolkit%20%28Invited%20Paper%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://magic3007.github.io/publication/leaps_tcsi2023/&amp;title=LEAPS:%20Topological-Layout-Adaptable%20Multi-Die%20FPGA%20Placement%20for%20Super%20Long%20Line%20Minimization" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1017,6 +1058,18 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
@@ -1128,24 +1181,6 @@
 
     </div>
   </div>
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
 
 
   

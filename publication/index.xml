@@ -5,12 +5,33 @@
     <link>https://magic3007.github.io/publication/</link>
       <atom:link href="https://magic3007.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Jing Mai</copyright><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Jing Mai</copyright><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://magic3007.github.io/media/icon_huaa231b862f7b96a72d0e6b088fa39ba5_414179_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://magic3007.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization</title>
+      <link>https://magic3007.github.io/publication/leaps_tcsi2023/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://magic3007.github.io/publication/leaps_tcsi2023/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization</title>
