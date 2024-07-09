@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
+gem 'webrick'
 # gem 'colorize', '0.8.1'
 # gem 'github-pages', "177"
 # gem 'html5_validator', '~> 1.0'
