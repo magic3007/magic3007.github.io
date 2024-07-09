@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://magic3007.github.io/sitemap.xml
