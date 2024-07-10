@@ -41,7 +41,7 @@ OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering
 3.
 </td>
 <td>
-<a href='https://doi.org/10.1109/TCAD.2023.3313101' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a>
+<a href='https://doi.org/10.1109/TCAD.2023.3313101' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://doi.org/10.1109/TCAD.2023.3313101' target='_blank'>paper</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Jiarui&nbsp;Wang, Zhixiong&nbsp;Di, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2024</em>  <br>
@@ -55,7 +55,7 @@ Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock
 4.
 </td>
 <td>
-<a href='https://doi.org/10.1109/TCSI.2023.3340554' target='_blank'><img src="images/publications/PLACE_TCASI2024_Di.png" onerror="this.style.display='none'" class="publicationImg" /></a>
+<a href='https://doi.org/10.1109/TCSI.2023.3340554' target='_blank'><img src="images/publications/PLACE_TCASI2024_Di.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization [<a href='https://doi.org/10.1109/TCSI.2023.3340554' target='_blank'>paper</a>] <br>
 Zhixiong&nbsp;Di, Runzhe&nbsp;Tao, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Lin&nbsp;Chen, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAS-I 2024</em>  <br>
@@ -72,7 +72,7 @@ Zhixiong&nbsp;Di, Runzhe&nbsp;Tao, <strong><a href='https://magic3007.github.io'
 5.
 </td>
 <td>
-<a href='https://doi.org/10.1109/ASICON58565.2023.10396248' target='_blank'><img src="images/publications/PLACE_ASICON2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a>
+<a href='https://doi.org/10.1109/ASICON58565.2023.10396248' target='_blank'><img src="images/publications/PLACE_ASICON2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit [<a href='https://doi.org/10.1109/ASICON58565.2023.10396248' target='_blank'>paper</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Jiarui&nbsp;Wang, Zhixiong&nbsp;Di, Guojie&nbsp;Luo, Yun&nbsp;Liang, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASICON 2023</em>  <br>
