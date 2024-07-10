@@ -1,3 +1,29 @@
+## <i class="fa fa-chevron-right"></i> News
+<table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
+<td style="padding:0px;width:100%;vertical-align:middle">
+<p>
+<li>[2024/06] Working with Dr. Liang Xiang at ByteDance AML as a research intern! 🧑‍💻 </li>
+<li>[2024/06] MORPH got accepted by <b>ICCAD 2024</b>, See you in New Jersey! 🎉 </li>
+<li>[2024/03] <b>OpenPARF 3.0</b> got accepted by <b>ISEDA 2024</b>! 🎉 </li>
+<li>[2024/02] <b>OpenPARF 2.0</b> got accepted by <b>TCAS-I 2024</b>! 🎉 </li>
+<li>[2024/02] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
+<li>[2023/10] We won the <b>Second Place</b> at <a href="https://ieeexplore.ieee.org/document/10299868">MLCAD 2023 FPGA Macro Placement Contest</a>. Cheers and thanks to all the co-authors! 🚀 </li>
+<li>[2023/09] One paper got accepted by <b>ASICON 2023</b>! 🎉 </li>
+<li>[2023/09] Win <b>Ubiquant Scholarship</b> for excellent Ph.D. students at Peking University! 🏆 </li>
+<li>[2023/07] We are pleased to release <b><a href="https://github.com/PKU-IDEA/OpenPARF">OpenPARF 1.0</a></b>, an open-source placement and routing framework for large-scale heterogeneous FPGAs with deep learning toolkit. Please check it out! 🤗 </li>
+<li>[2023/09] Two paper got accepted by <b>ASP-DAC 2022</b>! 🎉 </li>
+<li>[2022/02] One paper got accepted by <b>DAC 2022</b>! 🎉 </li>
+<li>[2021/09] Working with <a href="https://yibolin.com">Prof. Yibo Lin</a> in Peking University as a Ph.D. student! 🧑‍💻 </li>
+<li>[2021/06] Graduate from Peking University as Outstanding Undergraduate Graduates in Peking University (<b>top %1</b>)! 🧑‍🎓 </li>
+<li>[2021/02] One paper got accepted by <b>DAC 2021</b>! 🎉 </li>
+<li>[2020/09] Working with <a href="https://www.cse.cuhk.edu.hk/~byu/">Prof. Bei Yu</a> in CUHK as a visiting student! 🧑‍💻 </li>
+</p>
+</td>
+</tbody>
+</table>
+<br>
+
+
 ## <i class="fa fa-chevron-right"></i> Publications
 
 <!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 4] <br> -->
