@@ -3,7 +3,7 @@
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
 <li>[2024/06] Working with Dr. Liang Xiang at ByteDance AML as a research intern! 🧑‍💻 </li>
-<li>[2024/06] MORPH got accepted by <b>ICCAD 2024</b>, See you in New Jersey! 🎉 </li>
+<li>[2024/06] <b>MORPH</b> got accepted by <b>ICCAD 2024</b>, See you in New Jersey! 🎉 </li>
 <li>[2024/03] <b>OpenPARF 3.0</b> got accepted by <b>ISEDA 2024</b>! 🎉 </li>
 <li>[2024/02] <b>OpenPARF 2.0</b> got accepted by <b>TCAS-I 2024</b>! 🎉 </li>
 <li>[2024/02] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
