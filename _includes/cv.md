@@ -234,7 +234,7 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
   <tr>
     <td>
       <span class='cvdate'>Sept. 2020&nbsp;-&nbsp;Jun. 2021</span>
-      <strong>Visiting Student</strong>, <em>Chinese University of Hong Hong</em>
+      <strong>Visiting Student</strong>, <em>Chinese University of Hong Kong</em>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Advisor: <a href="https://www.cse.cuhk.edu.hk/~byu/" target="_blank">Prof. Bei Yu</a>
