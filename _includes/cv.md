@@ -55,7 +55,7 @@ MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management <br>
 <td>
 <img src="images/publications/PLACE_ISEDA2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
 OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions <br>
-<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Jiarui&nbsp;Wang, Yifan&nbsp;Chen, <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo</a>, Xun&nbsp;Jiang, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, Yifan&nbsp;Chen, <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo</a>, Xun&nbsp;Jiang, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ISEDA 2024</em>  <br>
 
 </td>
@@ -69,7 +69,7 @@ OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering
 <td>
 <a href='https://doi.org/10.1109/TCAD.2023.3313101' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://doi.org/10.1109/TCAD.2023.3313101' target='_blank'>paper</a>] <br>
-<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Jiarui&nbsp;Wang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2024</em>  <br>
 
 </td>
@@ -100,7 +100,7 @@ LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line
 <td>
 <a href='https://doi.org/10.1109/ASICON58565.2023.10396248' target='_blank'><img src="images/publications/PLACE_ASICON2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit [<a href='https://doi.org/10.1109/ASICON58565.2023.10396248' target='_blank'>paper</a>] <br>
-<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Jiarui&nbsp;Wang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='http://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/' target='_blank'>Guojie&nbsp;Luo</a>, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='http://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/' target='_blank'>Guojie&nbsp;Luo</a>, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASICON 2023</em>  <br>
 
 </td>
@@ -128,7 +128,7 @@ Yifan&nbsp;Chen, <strong><a href='https://magic3007.github.io' target='_blank'>J
 <td>
 <img src="images/publications/ROUTE_ASPDAC2023_Wang.png" onerror="this.style.display='none'" class="publicationImg" />
 A Robust FPGA Router with Concurrent Intra-CLB Rerouting <br>
-Jiarui&nbsp;Wang, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASP-DAC 2023</em>  <br>
 
 </td>
@@ -142,7 +142,7 @@ Jiarui&nbsp;Wang, <strong><a href='https://magic3007.github.io' target='_blank'>
 <td>
 <img src="images/publications/PLACE_JEIT2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
 OpenPARF: An Open-source Placement and Routing Framework for Large-scale Heterogeneous FPGAs with Deep Learning Toolkit <br>
-<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai<sup>*</sup></a></strong>, Jiarui&nbsp;Wang<sup>*</sup>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai<sup>*</sup></a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang<sup>*</sup></a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>JEIT 2023</em>  <br>
 
 </td>
@@ -215,4 +215,37 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
     <!--  -->
   </td>
 </tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Education
+
+<table class="table table-hover">
+  <tr>
+    <td>
+      <span class='cvdate'>Sept. 2021&nbsp;-&nbsp;Present</span>
+      <strong>Ph.D. in Computer Science</strong>, <em>Peking University</em>
+      <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a>
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span class='cvdate'>Sept. 2020&nbsp;-&nbsp;Jun. 2021</span>
+      <strong>Visiting Student</strong>, <em>Chinese University of Hong Hong</em>
+      <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Advisor: <a href="https://www.cse.cuhk.edu.hk/~byu/" target="_blank">Prof. Bei Yu</a>
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span class='cvdate'>Sept. 2017&nbsp;-&nbsp;Jun. 2021</span>
+      <strong>B.S. in Computer Science</strong>, <em>Peking University</em>
+      <br>
+    </td>
+  </tr>
 </table>
