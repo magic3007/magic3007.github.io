@@ -223,13 +223,13 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
 <table class="table table-hover">
   <tr>
     <td style="padding-left:0px;padding-right:0px;width:10%;vertical-align:middle">
-      <img src="images/logo/ByteDance_logo_English.svg.png" width="80" style="border: none;">
+      <img src="images/logo/bytedance-seeklogo.svg" width="80" style="border: none;">
     </td>
     <td style="width:100%; vertical-align:middle">
       <span class='cvdate'>Jun. 2024&nbsp;-&nbsp;Present</span>
       <strong>ByteDance AML</strong>, <em>Reasearch Intern</em>
-        <!-- <br> <span style="color:gray;">Advisors: Dr. Liang Xiang</span> -->
-        <br> Advisors: Dr. Liang Xiang
+        <!-- <br> <span style="color:gray;">Advisor: Dr. Liang Xiang</span> -->
+        <br> Advisor: Dr. Liang Xiang
         <!-- <br> <span style="color:gray;">Topics: Code generation and autogpt applications with large language models</span> -->
         <br> Topics: Code generation and autogpt applications with large language models
     </td>
@@ -241,7 +241,7 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
       <strong>Reasearch Intern</strong>, <em>ByteDance AML</em>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Advisors: Dr. Liang Xiang
+        <br> Advisor: Dr. Liang Xiang
         <br> Topics: Code generation and autogpt applications with large language models
         </p>
     </td>
