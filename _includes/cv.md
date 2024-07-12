@@ -7,8 +7,8 @@
 <li>[2024/03] <b>OpenPARF 3.0</b> got accepted by <b>ISEDA 2024</b>! 🎉 </li>
 <li>[2024/02] <b>OpenPARF 2.0</b> got accepted by <b>TCAS-I 2024</b>! 🎉 </li>
 <li>[2024/02] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
+<li>[2023/10] One paper got accepted by <b>ASICON 2023</b>! 🎉 </li>
 <li>[2023/10] We won the <b>Second Place</b> at <a href="https://ieeexplore.ieee.org/document/10299868">MLCAD 2023 FPGA Macro Placement Contest</a>. Cheers and thanks to all the co-authors! 🚀 </li>
-<li>[2023/09] One paper got accepted by <b>ASICON 2023</b>! 🎉 </li>
 <li>[2023/09] Win <b>Ubiquant Scholarship</b> for excellent Ph.D. students at Peking University! 🏆 </li>
 <li>[2023/07] We are pleased to release <b><a href="https://github.com/PKU-IDEA/OpenPARF">OpenPARF 1.0</a></b>, an open-source placement and routing framework for large-scale heterogeneous FPGAs with deep learning toolkit. Please check it out! 🤗 </li>
 <li>[2023/09] Two paper got accepted by <b>ASP-DAC 2022</b>! 🎉 </li>
@@ -218,10 +218,47 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Education
+## <i class="fa fa-chevron-right"></i> Experience
 
 <table class="table table-hover">
   <tr>
+    <td style="padding-left:0px;padding-right:0px;width:10%;vertical-align:middle">
+      <img src="images/logo/ByteDance_logo_English.svg.png" width="80" style="border: none;">
+    </td>
+    <td style="width:100%; vertical-align:middle">
+      <span class='cvdate'>Jun. 2024&nbsp;-&nbsp;Present</span>
+      <strong>ByteDance AML</strong>, <em>Reasearch Intern</em>
+        <!-- <br> <span style="color:gray;">Advisors: Dr. Liang Xiang</span> -->
+        <br> Advisors: Dr. Liang Xiang
+        <!-- <br> <span style="color:gray;">Topics: Code generation and autogpt applications with large language models</span> -->
+        <br> Topics: Code generation and autogpt applications with large language models
+    </td>
+  </tr>
+ <!-- old scheme -->
+  <!-- <tr>
+    <td>
+      <span class='cvdate'>Jun. 2024&nbsp;-&nbsp;Present</span>
+      <strong>Reasearch Intern</strong>, <em>ByteDance AML</em>
+      <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Advisors: Dr. Liang Xiang
+        <br> Topics: Code generation and autogpt applications with large language models
+        </p>
+    </td>
+  </tr> -->
+  <tr>
+    <td style="padding-left:0px;padding-right:0px;width:10%;vertical-align:middle">
+      <img src="images/logo/pku_logo.svg.png" width="80" style="border: none;">
+    </td>
+    <td style="width:100%; vertical-align:middle">
+      <span class='cvdate'>Sept. 2021&nbsp;-&nbsp;Present</span>
+      <strong>Peking University</strong>, <em>Ph.D. in Computer Science</em>
+        <!-- <br> <span style="color:gray;">Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a></span> -->
+        <br> Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a>
+    </td>
+  </tr>
+ <!-- old scheme -->
+  <!-- <tr>
     <td>
       <span class='cvdate'>Sept. 2021&nbsp;-&nbsp;Present</span>
       <strong>Ph.D. in Computer Science</strong>, <em>Peking University</em>
@@ -230,22 +267,52 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
         <br> Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a>
         </p>
     </td>
-  </tr>
+  </tr> -->
   <tr>
+    <td style="padding-left:0px;padding-right:0px;width:10%;vertical-align:middle">
+      <img src="images/logo/cuhk_logo.svg.png" width="80" style="border: none;">
+    </td>
+    <td style="width:100%; vertical-align:middle">
+      <span class='cvdate'>Sept. 2020&nbsp;-&nbsp;Jun. 2021</span>
+      <strong>Chinese University of Hong Kong</strong>, <em>Visiting Student</em>
+        <!-- <br> <span style="color:gray;">Advisor: <a href="https://www.cse.cuhk.edu.hk/~byu/" target="_blank">Prof. Bei Yu</a></span> -->
+        <br> Advisor: <a href="https://www.cse.cuhk.edu.hk/~byu/" target="_blank">Prof. Bei Yu</a>
+        <!-- <br> <span style="color:gray;">Topics: Electrostatics-based global placement for FPGAs</span> -->
+        <br> Topics: Electrostatics-based global placement for FPGAs
+    </td>
+  </tr>
+ <!-- old scheme -->
+  <!-- <tr>
     <td>
       <span class='cvdate'>Sept. 2020&nbsp;-&nbsp;Jun. 2021</span>
       <strong>Visiting Student</strong>, <em>Chinese University of Hong Kong</em>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Advisor: <a href="https://www.cse.cuhk.edu.hk/~byu/" target="_blank">Prof. Bei Yu</a>
+        <br> Topics: Electrostatics-based global placement for FPGAs
         </p>
     </td>
-  </tr>
+  </tr> -->
   <tr>
+    <td style="padding-left:0px;padding-right:0px;width:10%;vertical-align:middle">
+      <img src="images/logo/pku_logo.svg.png" width="80" style="border: none;">
+    </td>
+    <td style="width:100%; vertical-align:middle">
+      <span class='cvdate'>Sept. 2017&nbsp;-&nbsp;Jun. 2021</span>
+      <strong>Peking University</strong>, <em>B.S. in Computer Science</em>
+        <!-- <br> <span style="color:gray;">Experience: Student Cluster Competition team of Peking University (2019&nbsp;-&nbsp;2021)</span> -->
+        <br> Experience: Student Cluster Competition team of Peking University (2019&nbsp;-&nbsp;2021)
+    </td>
+  </tr>
+ <!-- old scheme -->
+  <!-- <tr>
     <td>
       <span class='cvdate'>Sept. 2017&nbsp;-&nbsp;Jun. 2021</span>
       <strong>B.S. in Computer Science</strong>, <em>Peking University</em>
       <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Experience: Student Cluster Competition team of Peking University (2019&nbsp;-&nbsp;2021)
+        </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
