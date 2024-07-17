@@ -26,7 +26,7 @@
 
 ## <i class="fa fa-chevron-right"></i> Publications
 
-<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 4] <br> -->
+<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 5.9k citations and an h-index of 31] <br> -->
 <!-- Selected publications I am a primary author on are <span style='background-color: #ffffd0'>highlighted.</span> -->
 
 <br>
@@ -53,8 +53,8 @@ MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management <br>
 2.
 </td>
 <td>
-<img src="images/publications/PLACE_ISEDA2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
-OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions <br>
+<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ISEDA2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai-slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, Yifan&nbsp;Chen, <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo</a>, Xun&nbsp;Jiang, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ISEDA 2024</em>  <br>
 
@@ -67,8 +67,8 @@ OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering
 3.
 </td>
 <td>
-<a href='https://doi.org/10.1109/TCAD.2023.3313101' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://doi.org/10.1109/TCAD.2023.3313101' target='_blank'>paper</a>] <br>
+<a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'>paper</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2024</em>  <br>
 
@@ -98,8 +98,8 @@ LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line
 5.
 </td>
 <td>
-<a href='https://doi.org/10.1109/ASICON58565.2023.10396248' target='_blank'><img src="images/publications/PLACE_ASICON2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit [<a href='https://doi.org/10.1109/ASICON58565.2023.10396248' target='_blank'>paper</a>] <br>
+<a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ASICON2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit [<a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://github.com/PKU-IDEA/OpenPARF' target='_blank'>code</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai-slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='http://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/' target='_blank'>Guojie&nbsp;Luo</a>, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASICON 2023</em>  <br>
 
@@ -112,8 +112,8 @@ OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterog
 6.
 </td>
 <td>
-<img src="images/publications/PLACE_ASPDAC2023_Chen.png" onerror="this.style.display='none'" class="publicationImg" />
-MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy <br>
+<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'><img src="images/publications/PLACE_ASPDAC2023_Chen.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen-slides.pdf' target='_blank'>slides</a>] <br>
 Yifan&nbsp;Chen, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://gaoxiaohan.com' target='_blank'>Xiaohan&nbsp;Gao</a>, <a href='https://muhanzhang.github.io' target='_blank'>Muhan&nbsp;Zhang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASP-DAC 2023</em>  <br>
 
@@ -126,8 +126,8 @@ Yifan&nbsp;Chen, <strong><a href='https://magic3007.github.io' target='_blank'>J
 7.
 </td>
 <td>
-<img src="images/publications/ROUTE_ASPDAC2023_Wang.png" onerror="this.style.display='none'" class="publicationImg" />
-A Robust FPGA Router with Concurrent Intra-CLB Rerouting <br>
+<a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang.pdf' target='_blank'><img src="images/publications/ROUTE_ASPDAC2023_Wang.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+A Robust FPGA Router with Concurrent Intra-CLB Rerouting [<a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang-slides.pdf' target='_blank'>slides</a>] <br>
 <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASP-DAC 2023</em>  <br>
 
@@ -157,8 +157,8 @@ OpenPARF: An Open-source Placement and Routing Framework for Large-scale Heterog
 9.
 </td>
 <td>
-<img src="images/publications/PLACE_DAC2022_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
-Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility <br>
+<a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai.pdf' target='_blank'><img src="images/publications/PLACE_DAC2022_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility [<a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai-slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://www.mengyibai.com' target='_blank'>Yibai&nbsp;Meng</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>DAC 2022</em>  <br>
 
@@ -169,13 +169,13 @@ Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and c
 <h2>2021</h2>
 <table class="table table-hover">
 
-<tr id="tr-FDM_DAC2021_GuoJing" >
+<tr id="tr-HPC_DAC2021_GuoJing" >
 <td align='right' style='padding-left:0;padding-right:0;'>
 10.
 </td>
 <td>
-<img src="images/publications/FDM_DAC2021_GuoJing.png" onerror="this.style.display='none'" class="publicationImg" />
-Ultrafast CPU/GPU Kernels for Density Accumulation in Placement <br>
+<a href='https://magic3007.github.io/data/publications/HPC_DAC2021_GuoJing/HPC_DAC2021_GuoJing.pdf' target='_blank'><img src="images/publications/HPC_DAC2021_GuoJing.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+Ultrafast CPU/GPU Kernels for Density Accumulation in Placement [<a href='https://magic3007.github.io/data/publications/HPC_DAC2021_GuoJing/HPC_DAC2021_GuoJing.pdf' target='_blank'>paper</a>] <br>
 <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo<sup>*</sup></a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai<sup>*</sup></a></strong>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>DAC 2021</em>  <br>
 
@@ -200,7 +200,7 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
 
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
-<!-- 0k+ GitHub stars across all repositories. -->
+<!-- 0.1k+ GitHub stars across all repositories. -->
 
 <table class="table table-hover">
 <tr>
@@ -208,7 +208,7 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/PKU-IDEA/OpenPARF">PKU-IDEA/OpenPARF</a> |
-    <i class="fa fas fa-star"></i> 99 |
+    <i class="fa fas fa-star"></i> 100 |
     <em>An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit PyTorch.</em>
     <!--  -->
     <!--     PKU-IDEA/OpenPARF  -->
@@ -315,4 +315,22 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
         </p>
     </td>
   </tr> -->
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Invited Talks
+<!-- slides for my major presentations are open-sourced with a cc-by license at
+\href{https://github.com/bamos/presentations}{bamos/presentations}. -->
+Slides for my major presentations are open-sourced with a CC-BY license.
+
+<table class="table table-hover">
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>2024-06</span>
+     <em>A Complete FPGA Placement and Routing Tutorial: Starting from OpenPARF Series</em>,
+     HUAWEI Inc.
+        [<a href="https://magic3007.github.io/data/talks/202406-FPGA_PnR/202406-FPGA_PnR-slides.pdf">slides</a>]
+  </td>
+</tr>
 </table>
