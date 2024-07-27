@@ -26,7 +26,7 @@
 
 ## <i class="fa fa-chevron-right"></i> Publications
 
-<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 5.9k citations and an h-index of 31] <br> -->
+<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 4] <br> -->
 <!-- Selected publications I am a primary author on are <span style='background-color: #ffffd0'>highlighted.</span> -->
 
 <br>
@@ -55,7 +55,7 @@ MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management <br>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ISEDA2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai-slides.pdf' target='_blank'>slides</a>] <br>
-<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, Yifan&nbsp;Chen, <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo</a>, Xun&nbsp;Jiang, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='https://www.linkedin.com/in/yifan-chen-b39a73284/?originalSubdomain=cn' target='_blank'>Yifan&nbsp;Chen</a>, <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo</a>, Xun&nbsp;Jiang, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ISEDA 2024</em>  <br>
 
 </td>
@@ -114,7 +114,7 @@ OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterog
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'><img src="images/publications/PLACE_ASPDAC2023_Chen.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen-slides.pdf' target='_blank'>slides</a>] <br>
-Yifan&nbsp;Chen, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://gaoxiaohan.com' target='_blank'>Xiaohan&nbsp;Gao</a>, <a href='https://muhanzhang.github.io' target='_blank'>Muhan&nbsp;Zhang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<a href='https://www.linkedin.com/in/yifan-chen-b39a73284/?originalSubdomain=cn' target='_blank'>Yifan&nbsp;Chen</a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://gaoxiaohan.com' target='_blank'>Xiaohan&nbsp;Gao</a>, <a href='https://muhanzhang.github.io' target='_blank'>Muhan&nbsp;Zhang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASP-DAC 2023</em>  <br>
 
 </td>
@@ -200,7 +200,7 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
 
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
-<!-- 0.1k+ GitHub stars across all repositories. -->
+<!-- 0k+ GitHub stars across all repositories. -->
 
 <table class="table table-hover">
 <tr>
@@ -208,7 +208,7 @@ Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' 
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/PKU-IDEA/OpenPARF">PKU-IDEA/OpenPARF</a> |
-    <i class="fa fas fa-star"></i> 100 |
+    <i class="fa fas fa-star"></i> 99 |
     <em>An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit PyTorch.</em>
     <!--  -->
     <!--     PKU-IDEA/OpenPARF  -->
