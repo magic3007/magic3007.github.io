@@ -190,7 +190,7 @@ Ultrafast CPU/GPU Kernels for Density Accumulation in Placement [<a href='https:
 <td>
 <img src="images/publications/HPC_TPDS2021_Cheng.png" onerror="this.style.display='none'" class="publicationImg" />
 Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performance, and Reproducibility” by SCC Team From Peking University <br>
-Yihua&nbsp;Cheng, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Yifan&nbsp;Wu, Pengcheng&nbsp;Xu, Yuxuan&nbsp;Yan, Zhenxin&nbsp;Fu, and <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a><br>
+<a href='https://apostac.github.io' target='_blank'>Yihua&nbsp;Cheng</a>, Zejia&nbsp;Fan, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Yifan&nbsp;Wu, Pengcheng&nbsp;Xu, Yuxuan&nbsp;Yan, Zhenxin&nbsp;Fu, and <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a><br>
 <em>TPDS 2021</em>  <br>
 
 </td>
