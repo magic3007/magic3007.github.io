@@ -40,8 +40,8 @@
 1.
 </td>
 <td>
-<img src="images/publications/PLACE_TCAD2024_Jiang.png" onerror="this.style.display='none'" class="publicationImg" />
-A Robust FPGA Router with Optimization of High-Fanout Nets and Intra-CLB Connections <br>
+<a href='https://doi.org/10.1109/TCAD.2024.3447218' target='_blank'><img src="images/publications/PLACE_TCAD2024_Jiang.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+A Robust FPGA Router with Optimization of High-Fanout Nets and Intra-CLB Connections [<a href='https://doi.org/10.1109/TCAD.2024.3447218' target='_blank'>paper</a>] <br>
 Xun&nbsp;Jiang, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2024</em>  <br>
 
