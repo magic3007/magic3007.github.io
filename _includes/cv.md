@@ -5,7 +5,7 @@
 <li>[2024/08] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
 <li>[2024/06] Working with Dr. Liang Xiang at ByteDance AML as a research intern! 🧑‍💻 </li>
 <li>[2024/06] <b>MORPH</b> got accepted by <b>ICCAD 2024</b>, See you in New Jersey! 🎉 </li>
-<li>[2024/03] <b>OpenPARF 3.0</b> got accepted by <b>ISEDA 2024</b>! 🎉 </li>
+<li>[2024/03] Our paper, <b>OpenPARF 3.0</b>, received the <font color="red"><b>Best Paper Award</b></font> at ISEDA 2024. Cheers and thanks to all the co-authors! 🏆 </li>
 <li>[2024/02] <b>OpenPARF 2.0</b> got accepted by <b>TCAS-I 2024</b>! 🎉 </li>
 <li>[2024/02] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
 <li>[2023/10] One paper got accepted by <b>ASICON 2023</b>! 🎉 </li>
@@ -71,7 +71,7 @@ MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management <br>
 <a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ISEDA2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai-slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='https://www.linkedin.com/in/yifan-chen-b39a73284/?originalSubdomain=cn' target='_blank'>Yifan&nbsp;Chen</a>, <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo</a>, Xun&nbsp;Jiang, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
-<em>ISEDA 2024</em>  <br>
+<em>ISEDA 2024</em> (<font color="red"><b>Best Paper Award</b></font>) <br>
 
 </td>
 </tr>
