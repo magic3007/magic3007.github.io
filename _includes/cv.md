@@ -225,7 +225,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
   <div style='float: right'>2024</div>
   <div>
-        ISEDA 2024 Best Paper Award
+        Best Paper Award (ISEDA 2024)
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
@@ -243,7 +243,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
   <div style='float: right'>2023</div>
   <div>
-        Ubiquant Scholarship
+        Ubiquant Scholarship, Peking University
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
@@ -261,7 +261,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
   <div style='float: right'>2020</div>
   <div>
-        Xiaomi Scholarship
+        Xiaomi Scholarship, Peking University
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -270,7 +270,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
   <div style='float: right'>2019</div>
   <div>
-        Huawei Scholarship
+        Huawei Scholarship, Peking University
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
