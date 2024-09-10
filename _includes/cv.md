@@ -214,8 +214,81 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Selected Honors & Awards
+<style>
+    .table-lg td, .table-lg th {
+        font-size: 1.6rem;
+    }
+</style>
+<table class="table table-hover table-lg">
+<tr>
+  <td>
+  <div style='float: right'>2024</div>
+  <div>
+        ISEDA 2024 Best Paper Award
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2023</div>
+  <div>
+        <a href="https://ieeexplore.ieee.org/document/10299868">IEEE/ACM MLCAD 2023 FPGA Macro-Placement Contest, Second Place</a>
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2023</div>
+  <div>
+        Ubiquant Scholarship
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2021</div>
+  <div>
+        Honors for Outstanding Undergraduate Graduates in Beijing (top 1%)
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2021</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2020</div>
+  <div>
+        Xiaomi Scholarship
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2019</div>
+  <div>
+        Huawei Scholarship
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2018</div>
+  <div>
+        The 43rd ACM-ICPC Asia Regional Competition, Gold Medal
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2018</td> -->
+</tr>
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
-<!-- 0k+ GitHub stars across all repositories. -->
+<!-- 0.1k+ GitHub stars across all repositories. -->
 
 <table class="table table-hover">
 <tr>
@@ -223,7 +296,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/PKU-IDEA/OpenPARF">PKU-IDEA/OpenPARF</a> |
-    <i class="fa fas fa-star"></i> 99 |
+    <i class="fa fas fa-star"></i> 107 |
     <em>An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit PyTorch.</em>
     <!--  -->
     <!--     PKU-IDEA/OpenPARF  -->
@@ -341,6 +414,14 @@ Slides for my major presentations are open-sourced with a CC-BY license.
 <table class="table table-hover">
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>2024-08</span>
+     <em>Modeling and Robust Optimization of Placement Problems under Complex Constraints</em>,
+     <a href="https://www.cadence.com">Cadence Inc.</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>2024-06</span>
      <em>A Complete FPGA Placement and Routing Tutorial: Starting from OpenPARF Series</em>,
