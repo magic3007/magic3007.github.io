@@ -54,8 +54,8 @@ Xun&nbsp;Jiang, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&n
 2.
 </td>
 <td>
-<img src="images/publications/PLACE_ICCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
-MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management <br>
+<a href='https://magic3007.github.io/data/publications/PLACE_ICCAD2024_Mai/PLACE_ICCAD2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ICCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management [<a href='https://magic3007.github.io/data/publications/PLACE_ICCAD2024_Mai/PLACE_ICCAD2024_Mai.pdf' target='_blank'>paper</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Zuodong&nbsp;Zhang, <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a>, Runsheng&nbsp;Wang, and Ru&nbsp;Huang<br>
 <em>ICCAD 2024</em>  <br>
 
