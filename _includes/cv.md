@@ -83,7 +83,7 @@ OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'>paper</a>] <br>
+Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://ieeexplore.ieee.org/document/10242369' target='_blank'>ieee</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2024</em>  <br>
 
