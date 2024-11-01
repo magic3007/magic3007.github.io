@@ -2,6 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
+<li>[2024/10] We won the <a href="https://magic3007.github.io/data/contests/ICCAD2024_CADathlon/ICCAD2024_CADathlon-2.jpeg"><b>First Place</b></a> in ACM SIGDA <b>CADathlon Contest 2024</b> (the “Olympic games of EDA”)! </li>
 <li>[2024/08] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
 <li>[2024/06] Working with Dr. Liang Xiang at ByteDance AML as a research intern! 🧑‍💻 </li>
 <li>[2024/06] <b>MORPH</b> got accepted by <b>ICCAD 2024</b>, See you in New Jersey! 🎉 </li>
@@ -55,7 +56,7 @@ Xun&nbsp;Jiang, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&n
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ICCAD2024_Mai/PLACE_ICCAD2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ICCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management [<a href='https://magic3007.github.io/data/publications/PLACE_ICCAD2024_Mai/PLACE_ICCAD2024_Mai.pdf' target='_blank'>paper</a>] <br>
+MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management [<a href='https://magic3007.github.io/data/publications/PLACE_ICCAD2024_Mai/PLACE_ICCAD2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ICCAD2024_Mai/PLACE_ICCAD2024_Mai.slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Zuodong&nbsp;Zhang, <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a>, Runsheng&nbsp;Wang, and Ru&nbsp;Huang<br>
 <em>ICCAD 2024</em>  <br>
 
@@ -69,7 +70,7 @@ MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management [<a hr
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ISEDA2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai-slides.pdf' target='_blank'>slides</a>] <br>
+OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='https://www.linkedin.com/in/yifan-chen-b39a73284/?originalSubdomain=cn' target='_blank'>Yifan&nbsp;Chen</a>, <a href='https://guozz.cn' target='_blank'>Zizheng&nbsp;Guo</a>, Xun&nbsp;Jiang, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ISEDA 2024</em> (<font color="red"><b>Best Paper Award</b></font>) <br>
 
@@ -114,7 +115,7 @@ LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ASICON2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit [<a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://github.com/PKU-IDEA/OpenPARF' target='_blank'>code</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai-slides.pdf' target='_blank'>slides</a>] <br>
+OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit [<a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://github.com/PKU-IDEA/OpenPARF' target='_blank'>code</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai.slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='http://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/' target='_blank'>Guojie&nbsp;Luo</a>, <a href='https://ericlyun.github.io' target='_blank'>Yun&nbsp;Liang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASICON 2023</em>  <br>
 
@@ -128,7 +129,7 @@ OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterog
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'><img src="images/publications/PLACE_ASPDAC2023_Chen.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen-slides.pdf' target='_blank'>slides</a>] <br>
+MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.slides.pdf' target='_blank'>slides</a>] <br>
 <a href='https://www.linkedin.com/in/yifan-chen-b39a73284/?originalSubdomain=cn' target='_blank'>Yifan&nbsp;Chen</a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://gaoxiaohan.com' target='_blank'>Xiaohan&nbsp;Gao</a>, <a href='https://muhanzhang.github.io' target='_blank'>Muhan&nbsp;Zhang</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASP-DAC 2023</em>  <br>
 
@@ -142,7 +143,7 @@ MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang.pdf' target='_blank'><img src="images/publications/ROUTE_ASPDAC2023_Wang.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-A Robust FPGA Router with Concurrent Intra-CLB Rerouting [<a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang-slides.pdf' target='_blank'>slides</a>] <br>
+A Robust FPGA Router with Concurrent Intra-CLB Rerouting [<a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang.slides.pdf' target='_blank'>slides</a>] <br>
 <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>ASP-DAC 2023</em>  <br>
 
@@ -173,7 +174,7 @@ OpenPARF: An Open-source Placement and Routing Framework for Large-scale Heterog
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai.pdf' target='_blank'><img src="images/publications/PLACE_DAC2022_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility [<a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai-slides.pdf' target='_blank'>slides</a>] <br>
+Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility [<a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai.slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://www.mengyibai.com' target='_blank'>Yibai&nbsp;Meng</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>DAC 2022</em>  <br>
 
@@ -221,6 +222,15 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
     }
 </style>
 <table class="table table-hover table-lg">
+<tr>
+  <td>
+  <div style='float: right'>2024</div>
+  <div>
+        <a href="https://mp.weixin.qq.com/s/x0TA_VO_t8AhJ73OzdR2cA">ACM SIGDA CADathlon Contest 2024, First Place</a>
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
+</tr>
 <tr>
   <td>
   <div style='float: right'>2024</div>
