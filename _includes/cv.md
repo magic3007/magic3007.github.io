@@ -2,7 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
-<li>[2024/10] We won the <a href="https://magic3007.github.io/2024/11/28/CADathlon2024/"><b>First Place</b></a> in ACM SIGDA <b>CADathlon Contest 2024</b> (the “Olympic games of EDA”)! 🎉 </li>
+<li>[2024/10] We won the <b>First Place</b> in ACM SIGDA <b>CADathlon Contest 2024</b> (the “Olympic games of EDA”)! 🚀 [<a href="https://magic3007.github.io/2024/11/28/CADathlon2024/">post</a>] </li>
 <li>[2024/08] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
 <li>[2024/06] Working with Dr. Liang Xiang at ByteDance AML as a research intern! 🧑‍💻 </li>
 <li>[2024/06] <b>MORPH</b> got accepted by <b>ICCAD 2024</b>, See you in New Jersey! 🎉 </li>
@@ -10,7 +10,7 @@
 <li>[2024/02] <b>OpenPARF 2.0</b> got accepted by <b>TCAS-I 2024</b>! 🎉 </li>
 <li>[2024/02] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
 <li>[2023/10] One paper got accepted by <b>ASICON 2023</b>! 🎉 </li>
-<li>[2023/10] We won the <b>Second Place</b> at <a href="https://ieeexplore.ieee.org/document/10299868">MLCAD 2023 FPGA Macro Placement Contest</a>. Cheers and thanks to all the co-authors! 🚀 </li>
+<li>[2023/10] We won the <b>Second Place</b> at the MLCAD 2023 FPGA Macro Placement Contest! Cheers and thanks to all the co-authors! 🚀 [<a href="https://magic3007.github.io/2023/11/13/MLCAD2023/">post</a>] </li>
 <li>[2023/09] Win <b>Ubiquant Scholarship</b> for excellent Ph.D. students at Peking University! 🏆 </li>
 <li>[2023/07] We are pleased to release <b><a href="https://github.com/PKU-IDEA/OpenPARF">OpenPARF 1.0</a></b>, an open-source placement and routing framework for large-scale heterogeneous FPGAs with deep learning toolkit. Please check it out! 🤗 </li>
 <li>[2023/09] Two paper got accepted by <b>ASP-DAC 2022</b>! 🎉 </li>
@@ -244,7 +244,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
   <div style='float: right'>2023</div>
   <div>
-        <a href="https://ieeexplore.ieee.org/document/10299868">IEEE/ACM MLCAD 2023 FPGA Macro-Placement Contest, Second Place</a>
+        <a href="https://magic3007.github.io/2023/11/13/MLCAD2023/">IEEE/ACM MLCAD 2023 FPGA Macro-Placement Contest, Second Place</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
