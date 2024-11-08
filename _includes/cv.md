@@ -2,7 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
-<li>[2024/10] We won the <a href="https://magic3007.github.io/data/contests/ICCAD2024_CADathlon/ICCAD2024_CADathlon-2.jpeg"><b>First Place</b></a> in ACM SIGDA <b>CADathlon Contest 2024</b> (the “Olympic games of EDA”)! </li>
+<li>[2024/10] We won the <a href="https://magic3007.github.io/2024/11/28/CADathlon2024/"><b>First Place</b></a> in ACM SIGDA <b>CADathlon Contest 2024</b> (the “Olympic games of EDA”)! 🎉 </li>
 <li>[2024/08] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
 <li>[2024/06] Working with Dr. Liang Xiang at ByteDance AML as a research intern! 🧑‍💻 </li>
 <li>[2024/06] <b>MORPH</b> got accepted by <b>ICCAD 2024</b>, See you in New Jersey! 🎉 </li>
@@ -226,7 +226,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
   <div style='float: right'>2024</div>
   <div>
-        <a href="https://mp.weixin.qq.com/s/x0TA_VO_t8AhJ73OzdR2cA">ACM SIGDA CADathlon Contest 2024, First Place</a>
+        <a href="https://magic3007.github.io/2024/11/28/CADathlon2024/">ACM SIGDA CADathlon Contest 2024, First Place</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
