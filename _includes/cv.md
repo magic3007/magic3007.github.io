@@ -11,7 +11,7 @@
 <li>[2024/02] <b>OpenPARF 2.0</b> got accepted by <b>TCAS-I 2024</b>! 🎉 </li>
 <li>[2024/02] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
 <li>[2023/10] One paper got accepted by <b>ASICON 2023</b>! 🎉 </li>
-<li>[2023/10] We won the <b>Second Place</b> at the MLCAD 2023 FPGA Macro Placement Contest! Cheers and thanks to all the co-authors! 🚀 [<a href="https://magic3007.github.io/2023/11/13/MLCAD2023/">post</a>] </li>
+<li>[2023/10] We won the <b>Second Place</b> at the MLCAD 2023 FPGA Macro Placement Contest! Welcome to check out our open-source repository <b>OpenPARF-MLCAD</b> in this <a href="https://magic3007.github.io/2023/11/13/MLCAD2023/">post</a>! 🚀 </li>
 <li>[2023/09] Win <b>Ubiquant Scholarship</b> for excellent Ph.D. students at Peking University! 🏆 </li>
 <li>[2023/07] We are pleased to release <b><a href="https://github.com/PKU-IDEA/OpenPARF">OpenPARF 1.0</a></b>, an open-source placement and routing framework for large-scale heterogeneous FPGAs with deep learning toolkit. Please check it out! 🤗 </li>
 <li>[2023/09] Two paper got accepted by <b>ASP-DAC 2022</b>! 🎉 </li>
