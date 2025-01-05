@@ -44,7 +44,7 @@
 <td>
 <img src="images/publications/PLACE_ISPD2025_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
 LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method <br>
-<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Chunyuan&nbsp;Zhao, Jinwei&nbsp;Chen, Zuodong&nbsp;Zhang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a>, Runsheng&nbsp;Wang, and Ru&nbsp;Huang<br>
+<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Chunyuan&nbsp;Zhao, and&nbsp;Zuodong&nbsp;Zhang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a>, Runsheng&nbsp;Wang, and Ru&nbsp;Huang<br>
 <em>ISPD 2025</em>  <br>
 
 </td>
