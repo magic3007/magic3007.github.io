@@ -2,6 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
+<li>[2025/02] Our paper, <b>RUPlace</b>, got accepted by <b>DAC 2025</b>. See you in San Francisco! 🎉 </li>
 <li>[2024/11] Our paper, <b>LEGALM</b>, got accepted by <b>ISPD 2025</b>. See you in Austin! 🎉 </li>
 <li>[2024/10] We won the <b>First Place</b> in ACM SIGDA <b>CADathlon Contest 2024</b> (the “Olympic games of EDA”)! 🚀 [<a href="https://magic3007.github.io/2024/11/28/CADathlon2024/">post</a>] </li>
 <li>[2024/08] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
@@ -37,9 +38,23 @@
 <h2>2025</h2>
 <table class="table table-hover">
 
-<tr id="tr-PLACE_ISPD2025_Mai" >
+<tr id="tr-PLACE_DAC2025_Chen" >
 <td align='right' style='padding-left:0;padding-right:0;'>
 1.
+</td>
+<td>
+<img src="images/publications/PLACE_DAC2025_Chen.png" onerror="this.style.display='none'" class="publicationImg" />
+RUPlace: Optimizing Routability via Unified Placement and Routing Formulation <br>
+<a href='https://www.linkedin.com/in/yifan-chen-b39a73284/?originalSubdomain=cn' target='_blank'>Yifan&nbsp;Chen</a>, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Zuodong&nbsp;Zhang, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
+<em>DAC 2025</em>  <br>
+
+</td>
+</tr>
+
+
+<tr id="tr-PLACE_ISPD2025_Mai" >
+<td align='right' style='padding-left:0;padding-right:0;'>
+2.
 </td>
 <td>
 <img src="images/publications/PLACE_ISPD2025_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -56,7 +71,7 @@ LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Au
 
 <tr id="tr-PLACE_TCAD2024_Jiang" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-2.
+3.
 </td>
 <td>
 <a href='https://doi.org/10.1109/TCAD.2024.3447218' target='_blank'><img src="images/publications/PLACE_TCAD2024_Jiang.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -70,7 +85,7 @@ Xun&nbsp;Jiang, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&n
 
 <tr id="tr-PLACE_ICCAD2024_Mai" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-3.
+4.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ICCAD2024_Mai/PLACE_ICCAD2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ICCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -84,7 +99,7 @@ MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management [<a hr
 
 <tr id="tr-PLACE_ISEDA2024_Mai" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-4.
+5.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ISEDA2024_Mai/PLACE_ISEDA2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ISEDA2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -98,7 +113,7 @@ OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering
 
 <tr id="tr-PLACE_TCAD2024_Mai" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-5.
+6.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -112,7 +127,7 @@ Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock
 
 <tr id="tr-PLACE_TCASI2024_Di" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-6.
+7.
 </td>
 <td>
 <a href='https://doi.org/10.1109/TCSI.2023.3340554' target='_blank'><img src="images/publications/PLACE_TCASI2024_Di.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -129,7 +144,7 @@ LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line
 
 <tr id="tr-PLACE_ASICON2023_Mai" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-7.
+8.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ASICON2023_Mai/PLACE_ASICON2023_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ASICON2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -143,7 +158,7 @@ OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterog
 
 <tr id="tr-PLACE_ASPDAC2023_Chen" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-8.
+9.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_ASPDAC2023_Chen/PLACE_ASPDAC2023_Chen.pdf' target='_blank'><img src="images/publications/PLACE_ASPDAC2023_Chen.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -157,7 +172,7 @@ MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy
 
 <tr id="tr-ROUTE_ASPDAC2023_Wang" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-9.
+10.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/ROUTE_ASPDAC2023_Wang/ROUTE_ASPDAC2023_Wang.pdf' target='_blank'><img src="images/publications/ROUTE_ASPDAC2023_Wang.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -171,7 +186,7 @@ A Robust FPGA Router with Concurrent Intra-CLB Rerouting [<a href='https://magic
 
 <tr id="tr-PLACE_JEIT2023_Mai" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-10.
+11.
 </td>
 <td>
 <img src="images/publications/PLACE_JEIT2023_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -188,7 +203,7 @@ OpenPARF: An Open-source Placement and Routing Framework for Large-scale Heterog
 
 <tr id="tr-PLACE_DAC2022_Mai" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-11.
+12.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/PLACE_DAC2022_Mai/PLACE_DAC2022_Mai.pdf' target='_blank'><img src="images/publications/PLACE_DAC2022_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -205,7 +220,7 @@ Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and c
 
 <tr id="tr-HPC_DAC2021_GuoJing" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-12.
+13.
 </td>
 <td>
 <a href='https://magic3007.github.io/data/publications/HPC_DAC2021_GuoJing/HPC_DAC2021_GuoJing.pdf' target='_blank'><img src="images/publications/HPC_DAC2021_GuoJing.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -219,7 +234,7 @@ Ultrafast CPU/GPU Kernels for Density Accumulation in Placement [<a href='https:
 
 <tr id="tr-HPC_TPDS2021_Cheng" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-13.
+14.
 </td>
 <td>
 <img src="images/publications/HPC_TPDS2021_Cheng.png" onerror="this.style.display='none'" class="publicationImg" />
