@@ -57,8 +57,8 @@ RUPlace: Optimizing Routability via Unified Placement and Routing Formulation <b
 2.
 </td>
 <td>
-<img src="images/publications/PLACE_ISPD2025_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
-LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method <br>
+<a href='https://magic3007.github.io/data/publications/PLACE_ISPD2025_Mai/PLACE_ISPD2025_Mai.pdf' target='_blank'><img src="images/publications/PLACE_ISPD2025_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method [<a href='https://magic3007.github.io/data/publications/PLACE_ISPD2025_Mai/PLACE_ISPD2025_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://magic3007.github.io/data/publications/PLACE_ISPD2025_Mai/PLACE_ISPD2025_Mai.slides.pdf' target='_blank'>slides</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Chunyuan&nbsp;Zhao, Zuodong&nbsp;Zhang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a>, Runsheng&nbsp;Wang, and Ru&nbsp;Huang<br>
 <em>ISPD 2025</em>  <br>
 
