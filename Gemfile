@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages', '~> 228'
+gem 'jekyll-github-metadata', '~> 2.13.0'
 gem 'webrick'
+gem 'csv'
 # gem 'colorize', '0.8.1'
 # gem 'github-pages', "177"
 # gem 'html5_validator', '~> 1.0'

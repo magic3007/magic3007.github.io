@@ -2,11 +2,12 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
+<li>[2025/06] Thrilled to join NVIDIA as a research intern! See you in Santa Clara! 🧑‍💻 </li>
 <li>[2025/02] Our paper, <b>RUPlace</b>, got accepted by <b>DAC 2025</b>. See you in San Francisco! 🎉 </li>
 <li>[2024/11] Our paper, <b>LEGALM</b>, got accepted by <b>ISPD 2025</b>. See you in Austin! 🎉 </li>
 <li>[2024/10] We won the <b>First Place</b> in ACM SIGDA <b>CADathlon Contest 2024</b> (the “Olympic games of EDA”)! 🚀 [<a href="https://magic3007.github.io/2024/11/28/CADathlon2024/">post</a>] </li>
 <li>[2024/08] One paper got accepted by <b>TCAD 2024</b>! 🎉 </li>
-<li>[2024/06] Working with Dr. Liang Xiang at ByteDance AML as a research intern! 🧑‍💻 </li>
+<li>[2024/06] Working with Dr. Liang Xiang at ByteDance Seed as a research intern! 🧑‍💻 </li>
 <li>[2024/06] <b>MORPH</b> got accepted by <b>ICCAD 2024</b>. See you in New Jersey! 🎉 </li>
 <li>[2024/03] Our paper, <b>OpenPARF 3.0</b>, received the <font color="red"><b>Best Paper Award</b></font> at ISEDA 2024. Cheers and thanks to all the co-authors! 🏆 </li>
 <li>[2024/02] <b>OpenPARF 2.0</b> got accepted by <b>TCAS-I 2024</b>! 🎉 </li>
@@ -30,7 +31,7 @@
 
 ## <i class="fa fa-chevron-right"></i> Publications
 
-<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 4] <br> -->
+<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 5.9k citations and an h-index of 31] <br> -->
 <!-- Selected publications I am a primary author on are <span style='background-color: #ffffd0'>highlighted.</span> -->
 
 <br>
@@ -339,7 +340,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/PKU-IDEA/OpenPARF">PKU-IDEA/OpenPARF</a> |
-    <i class="fa fas fa-star"></i> 107 |
+    <i class="fa fas fa-star"></i> 100 |
     <em>An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit PyTorch.</em>
     <!--  -->
     <!--     PKU-IDEA/OpenPARF  -->
@@ -354,26 +355,26 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
 <table class="table table-hover">
   <tr>
     <td style="padding-left:0px;padding-right:0px;width:10%;vertical-align:middle">
-      <img src="images/logo/bytedance-seeklogo.svg" width="80" style="border: none;">
+      <img src="images/logo/NVLogo_2D.jpg" width="80" style="border: none;">
     </td>
     <td style="width:100%; vertical-align:middle">
-      <span class='cvdate'>Jun. 2024&nbsp;-&nbsp;Present</span>
-      <strong>ByteDance AML</strong>, <em>Reasearch Intern</em>
-        <!-- <br> <span style="color:gray;">Advisor: Dr. Liang Xiang</span> -->
-        <br> Advisor: Dr. Liang Xiang
-        <!-- <br> <span style="color:gray;">Topics: Code generation and autogpt applications with large language models</span> -->
-        <br> Topics: Code generation and autogpt applications with large language models
+      <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Present</span>
+      <strong>NVIDIA</strong>, <em>Research Intern</em>
+        <!-- <br> <span style="color:gray;">Advisor: Dr. Haoxing Ren and Dr. Yichen Lu</span> -->
+        <br> Advisor: Dr. Haoxing Ren and Dr. Yichen Lu
+        <!-- <br> <span style="color:gray;">Topics: AI for chip design and GPU-acceleration EDA</span> -->
+        <br> Topics: AI for chip design and GPU-acceleration EDA
     </td>
   </tr>
  <!-- old scheme -->
   <!-- <tr>
     <td>
-      <span class='cvdate'>Jun. 2024&nbsp;-&nbsp;Present</span>
-      <strong>Reasearch Intern</strong>, <em>ByteDance AML</em>
+      <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Present</span>
+      <strong>Research Intern</strong>, <em>NVIDIA</em>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Advisor: Dr. Liang Xiang
-        <br> Topics: Code generation and autogpt applications with large language models
+        <br> Advisor: Dr. Haoxing Ren and Dr. Yichen Lu
+        <br> Topics: AI for chip design and GPU-acceleration EDA
         </p>
     </td>
   </tr> -->
@@ -396,6 +397,31 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a>
+        </p>
+    </td>
+  </tr> -->
+  <tr>
+    <td style="padding-left:0px;padding-right:0px;width:10%;vertical-align:middle">
+      <img src="images/logo/bytedance-seeklogo.svg" width="80" style="border: none;">
+    </td>
+    <td style="width:100%; vertical-align:middle">
+      <span class='cvdate'>Jun. 2024&nbsp;-&nbsp;Jun. 2025</span>
+      <strong>ByteDance Seed</strong>, <em>Reasearch Intern</em>
+        <!-- <br> <span style="color:gray;">Advisor: Dr. Liang Xiang</span> -->
+        <br> Advisor: Dr. Liang Xiang
+        <!-- <br> <span style="color:gray;">Topics: Code generation and autogpt applications with large language models</span> -->
+        <br> Topics: Code generation and autogpt applications with large language models
+    </td>
+  </tr>
+ <!-- old scheme -->
+  <!-- <tr>
+    <td>
+      <span class='cvdate'>Jun. 2024&nbsp;-&nbsp;Jun. 2025</span>
+      <strong>Reasearch Intern</strong>, <em>ByteDance Seed</em>
+      <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Advisor: Dr. Liang Xiang
+        <br> Topics: Code generation and autogpt applications with large language models
         </p>
     </td>
   </tr> -->
@@ -458,13 +484,21 @@ Slides for my major presentations are open-sourced with a CC-BY license.
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
+    <span class='cvdate'>2025-05</span>
+     <em>Advanced Open-Source FPGA HLS and Physical Implementation Tool</em>,
+     ISEDA'25 Tutorial
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td style='padding-right:0;'>
     <span class='cvdate'>2024-08</span>
      <em>Modeling and Robust Optimization of Placement Problems under Complex Constraints</em>,
      <a href="https://www.cadence.com">Cadence Inc.</a>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>2024-06</span>
      <em>A Complete FPGA Placement and Routing Tutorial: Starting from OpenPARF Series</em>,
