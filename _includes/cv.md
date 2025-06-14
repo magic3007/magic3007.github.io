@@ -359,9 +359,9 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
     </td>
     <td style="width:100%; vertical-align:middle">
       <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Present</span>
-      <strong>NVIDIA</strong>, <em>Research Intern</em>
-        <!-- <br> <span style="color:gray;">Advisor: Dr. Haoxing Ren and Dr. Yichen Lu</span> -->
-        <br> Advisor: Dr. Haoxing Ren and Dr. Yichen Lu
+      <strong>NVIDIA Research Group</strong>, <em>Research Intern</em>
+        <!-- <br> <span style="color:gray;">Advisor: <a href="https://research.nvidia.com/person/haoxing-mark-ren" target="_blank">Dr. Haoxing Ren</a> and <a href="https://yichen-lu.github.io" target="_blank">Dr. Yichen Lu</a></span> -->
+        <br> Advisor: <a href="https://research.nvidia.com/person/haoxing-mark-ren" target="_blank">Dr. Haoxing Ren</a> and <a href="https://yichen-lu.github.io" target="_blank">Dr. Yichen Lu</a>
         <!-- <br> <span style="color:gray;">Topics: AI for chip design and GPU-acceleration EDA</span> -->
         <br> Topics: AI for chip design and GPU-acceleration EDA
     </td>
@@ -370,10 +370,10 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <!-- <tr>
     <td>
       <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Present</span>
-      <strong>Research Intern</strong>, <em>NVIDIA</em>
+      <strong>Research Intern</strong>, <em>NVIDIA Research Group</em>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Advisor: Dr. Haoxing Ren and Dr. Yichen Lu
+        <br> Advisor: <a href="https://research.nvidia.com/person/haoxing-mark-ren" target="_blank">Dr. Haoxing Ren</a> and <a href="https://yichen-lu.github.io" target="_blank">Dr. Yichen Lu</a>
         <br> Topics: AI for chip design and GPU-acceleration EDA
         </p>
     </td>
@@ -387,6 +387,8 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
       <strong>Peking University</strong>, <em>Ph.D. in Computer Science</em>
         <!-- <br> <span style="color:gray;">Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a></span> -->
         <br> Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a>
+        <!-- <br> <span style="color:gray;">Topics: AI for chip design, GPU-acceleration EDA, efficient AI computing, and algorithm/hardware co-design.</span> -->
+        <br> Topics: AI for chip design, GPU-acceleration EDA, efficient AI computing, and algorithm/hardware co-design.
     </td>
   </tr>
  <!-- old scheme -->
@@ -397,6 +399,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Advisor: <a href="https://yibolin.com" target="_blank">Prof. Yibo Lin</a>
+        <br> Topics: AI for chip design, GPU-acceleration EDA, efficient AI computing, and algorithm/hardware co-design.
         </p>
     </td>
   </tr> -->
