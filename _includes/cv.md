@@ -2,6 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
+<li>[2025/08] Our paper, <b>LEGALM 2.0</b>, got accepted by <b>TCAD 2025</b>! 🎉 </li>
 <li>[2025/06] Thrilled to join NVIDIA as a research intern! See you in Santa Clara! 🧑‍💻 </li>
 <li>[2025/02] Our paper, <b>RUPlace</b>, got accepted by <b>DAC 2025</b>. See you in San Francisco! 🎉 </li>
 <li>[2024/11] Our paper, <b>LEGALM</b>, got accepted by <b>ISPD 2025</b>. See you in Austin! 🎉 </li>
