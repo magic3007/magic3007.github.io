@@ -2,6 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
+<li>[2025/08] Our paper, <b>LEGALM 2.0</b>, got accepted by <b>TCAD 2025</b>! 🎉 </li>
 <li>[2025/06] Thrilled to join NVIDIA as a research intern! See you in Santa Clara! 🧑‍💻 </li>
 <li>[2025/02] Our paper, <b>RUPlace</b>, got accepted by <b>DAC 2025</b>. See you in San Francisco! 🎉 </li>
 <li>[2024/11] Our paper, <b>LEGALM</b>, got accepted by <b>ISPD 2025</b>. See you in Austin! 🎉 </li>
@@ -46,7 +47,7 @@
 <td>
 <img src="images/publications/PLACE_TCAD2025_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
 LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization <br>
-<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://chunyuanzhao.me' target='_blank'>Chunyuan&nbsp;Zhao</a>, Zuodong&nbsp;Zhang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a>, and Runsheng&nbsp;Wang<br>
+<strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://chunyuanzhao.me' target='_blank'>Chunyuan&nbsp;Zhao</a>, Zuodong&nbsp;Zhang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and&nbsp;Runsheng&nbsp;Wang, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2025</em>  <br>
 
 </td>
