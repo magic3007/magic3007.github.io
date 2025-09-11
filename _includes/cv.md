@@ -45,8 +45,8 @@
 1.
 </td>
 <td>
-<img src="images/publications/PLACE_TCAD2025_Mai.png" onerror="this.style.display='none'" class="publicationImg" />
-LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization <br>
+<a href='https://ieeexplore.ieee.org/abstract/document/11121878' target='_blank'><img src="images/publications/PLACE_TCAD2025_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization [<a href='https://ieeexplore.ieee.org/abstract/document/11121878' target='_blank'>paper</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://chunyuanzhao.me' target='_blank'>Chunyuan&nbsp;Zhao</a>, Zuodong&nbsp;Zhang, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and&nbsp;Runsheng&nbsp;Wang, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2025</em>  <br>
 
@@ -132,8 +132,8 @@ OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering
 7.
 </td>
 <td>
-<a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://magic3007.github.io/data/publications/PLACE_TCAD2024_Mai/PLACE_TCAD2024_Mai.pdf' target='_blank'>paper</a>]  [<a href='https://ieeexplore.ieee.org/document/10242369' target='_blank'>ieee</a>] <br>
+<a href='https://ieeexplore.ieee.org/document/10242369' target='_blank'><img src="images/publications/PLACE_TCAD2024_Mai.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization [<a href='https://ieeexplore.ieee.org/document/10242369' target='_blank'>paper</a>] <br>
 <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, <a href='http://www.dizhixiong.cn' target='_blank'>Zhixiong&nbsp;Di</a>, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>TCAD 2024</em>  <br>
 
