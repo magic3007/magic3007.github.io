@@ -2,6 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
+<li>[2025/10] Honored to receive the <b>National Scholarship (top 1%)</b> at Peking University! 🏆 </li>
 <li>[2025/08] Our paper, <b>LEGALM 2.0</b>, got accepted by <b>TCAD 2025</b>! 🎉 </li>
 <li>[2025/06] Thrilled to join NVIDIA as a research intern! See you in Santa Clara! 🧑‍💻 </li>
 <li>[2025/02] Our paper, <b>RUPlace</b>, got accepted by <b>DAC 2025</b>. See you in San Francisco! 🎉 </li>
@@ -273,6 +274,15 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
 <table class="table table-hover table-lg">
 <tr>
   <td>
+  <div style='float: right'>2025</div>
+  <div>
+        National Scholarship (top 1%), Peking University
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2025</td> -->
+</tr>
+<tr>
+  <td>
   <div style='float: right'>2024</div>
   <div>
         <a href="https://magic3007.github.io/2024/11/28/CADathlon2024/">ACM SIGDA CADathlon Contest 2024, First Place</a>
@@ -373,7 +383,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
       <img src="images/logo/NVLogo_2D.jpg" width="80" style="border: none;">
     </td>
     <td style="width:100%; vertical-align:middle">
-      <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Present</span>
+      <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Oct. 2025</span>
       <strong>NVIDIA Research Group</strong>, <em>Research Intern</em>
         <!-- <br> <span style="color:gray;">Advisor: <a href="https://research.nvidia.com/person/haoxing-mark-ren" target="_blank">Dr. Haoxing Ren</a> and <a href="https://yichen-lu.github.io" target="_blank">Dr. Yichen Lu</a></span> -->
         <br> Advisor: <a href="https://research.nvidia.com/person/haoxing-mark-ren" target="_blank">Dr. Haoxing Ren</a> and <a href="https://yichen-lu.github.io" target="_blank">Dr. Yichen Lu</a>
@@ -384,7 +394,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
  <!-- old scheme -->
   <!-- <tr>
     <td>
-      <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Present</span>
+      <span class='cvdate'>Jun. 2025&nbsp;-&nbsp;Oct. 2025</span>
       <strong>Research Intern</strong>, <em>NVIDIA Research Group</em>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
