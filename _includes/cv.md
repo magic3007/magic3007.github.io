@@ -2,6 +2,7 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
+<li>[2025/11] Great privilege to have been selected as the <b>Top Ten Academic Stars</b> at the CS department of Peking University! 🧑‍🎓 </li>
 <li>[2025/10] Honored to receive the <b>National Scholarship (top 1%)</b> at Peking University! 🏆 </li>
 <li>[2025/08] Our paper, <b>LEGALM 2.0</b>, got accepted by <b>TCAD 2025</b>! 🎉 </li>
 <li>[2025/06] Thrilled to join NVIDIA as a research intern! See you in Santa Clara! 🧑‍💻 </li>
@@ -272,6 +273,15 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
     }
 </style>
 <table class="table table-hover table-lg">
+<tr>
+  <td>
+  <div style='float: right'>2025</div>
+  <div>
+        Top Ten Academic Stars, Peking University
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2025</td> -->
+</tr>
 <tr>
   <td>
   <div style='float: right'>2025</div>
