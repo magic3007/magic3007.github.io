@@ -2,8 +2,8 @@
 <table style="width:90%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;"><tbody>
 <td style="padding:0px;width:100%;vertical-align:middle">
 <p>
-<li>[2025/03] One paper got accepted by <b>ISEDA 2026</b>! Looking forward to seeing you in Singapore! 🎉 </li>
-<li>[2025/02] One paper got accepted by <b>DAC 2026</b>! See you in Long Beach this summer! 🎉 </li>
+<li>[2026/03] One paper got accepted by <b>ISEDA 2026</b>! Looking forward to seeing you in Singapore! 🎉 </li>
+<li>[2026/02] One paper got accepted by <b>DAC 2026</b>! See you in Long Beach this summer! 🎉 </li>
 <li>[2025/11] One paper got accepted by <b>FPGA 2026</b>! See you in Monterey! 🐬 </li>
 <li>[2025/11] Great privilege to have been selected as the <b>Top Ten Academic Stars</b> at the CS department of Peking University! 🧑‍🎓 </li>
 <li>[2025/10] Honored to receive the <b>National Scholarship (top 1%)</b> at Peking University! 🏆 </li>
