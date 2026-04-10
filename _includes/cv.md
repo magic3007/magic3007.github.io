@@ -35,7 +35,7 @@
 
 ## <i class="fa fa-chevron-right"></i> Publications
 
-<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 6] <br> -->
+<!-- [<a href="https://scholar.google.com/citations?user=nx0qXD8AAAAJ">Google Scholar</a>: 0.1k+ citations and an h-index of 9] <br> -->
 <!-- Selected publications I am a primary author on are <span style='background-color: #ffffd0'>highlighted.</span> -->
 
 <br>
@@ -48,8 +48,8 @@
 1.
 </td>
 <td>
-<a href='https://magic3007.github.io/data/publications/FPGA_FPGA2026_Wang/FPGA_FPGA2026_Wang.pdf' target='_blank'><img src="images/publications/FPGA_FPGA2026_Wang.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-TDM Signal Grouping and Package Pin Assignment for 2.5D  Multi-FPGA Systems with Lookahead Placement [<a href='https://magic3007.github.io/data/publications/FPGA_FPGA2026_Wang/FPGA_FPGA2026_Wang.pdf' target='_blank'>paper</a>] <br>
+<img src="images/publications/FPGA_FPGA2026_Wang.png" onerror="this.style.display='none'" class="publicationImg" />
+TDM Signal Grouping and Package Pin Assignment for 2.5D  Multi-FPGA Systems with Lookahead Placement <br>
 <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, Runzhe&nbsp;Tao, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Xun&nbsp;Jiang, Shenghua&nbsp;Wang, Cuiliu&nbsp;Yang, Haoyu&nbsp;Jie, Kan&nbsp;Huang, Richard&nbsp;Y.&nbsp;Sun, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>FPGA 2026</em>  <br>
 
@@ -393,7 +393,7 @@ Critique of “Planetary Normal Mode Computation: Parallel Algorithms, Performan
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/PKU-IDEA/OpenPARF">PKU-IDEA/OpenPARF</a> |
-    <i class="fa fas fa-star"></i> 151 |
+    <i class="fa fas fa-star"></i> 172 |
     <em>An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit PyTorch.</em>
     <!--  -->
     <!--     PKU-IDEA/OpenPARF  -->
