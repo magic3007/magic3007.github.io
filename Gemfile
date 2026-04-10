@@ -1,10 +1,11 @@
 source 'https://rubygems.org'
-gem 'github-pages', '~> 228'
-gem 'jekyll-github-metadata', '~> 2.13.0'
+# gem 'github-pages', '~> 228'
+gem 'github-pages', "177"
+gem 'jekyll-github-metadata', '~> 2.9.3'
 gem 'webrick'
 gem 'csv'
+gem 'ffi', '~> 1.15.5'
 # gem 'colorize', '0.8.1'
-# gem 'github-pages', "177"
 # gem 'html5_validator', '~> 1.0'
 # gem 'w3c_validators', '~> 1.2'
 # gem 'html-proofer', '~> 3.0.6'
