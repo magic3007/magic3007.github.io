@@ -2,8 +2,8 @@
 layout: base
 ---
 <div class="container">
-  <div class="row">
-    <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
+  <div class="row" style="display: flex; align-items: stretch;">
+    <div class="col-md-7 col-md-offset-1 vcenter idxHdr">
       <div style="font-size: 2.5em; color: #4582ec; font-weight: bold; padding-bottom: 0.3em;">JING MAI</div>
       {% comment %}
         <div style='font-size: 1.2em;'>
@@ -26,8 +26,13 @@ layout: base
         <p align="justify">
         I am a final-year Ph.D. student in the Department of CS at Peking University (PKU) advised by Prof. <a href="https://yibolin.com" target="_blank">Yibo Lin</a>. Previously, I was a research intern at NVIDIA Research, advised by <a href="https://research.nvidia.com/person/haoxing-mark-ren" target="_blank">Dr. Haoxing Ren</a> and <a href="https://yichen-lu.github.io" target="_blank">Dr. Yichen Lu</a>, and at ByteDance Seed.
         I received my Bachelor's degree with honors in the school of EECS from PKU in 2021. During my undergraduate years, I was honored to work with Prof. <a href="https://ericlyun.github.io" target="_blank">Yun Liang</a>, Prof. <a href="https://www.cse.cuhk.edu.hk/~byu/" target="_blank">Bei Yu</a>, and Prof. <a href="https://pkudlib.github.io" target="_blank">Ming Zhang</a>.
-        My research focuses on efficient AI computing, algorithm/hardware co-design, design automation, AI for science, and GPU-accelerated chip design.
+        My research aims to develop efficient and scalable AI algorithms and systems. I am particularly excited about:
         </p>
+        <ul style="line-height: 1.8; text-align: left;">
+          <li> Algorithm/Hardware Co-design for Efficient AI Computing</li>
+          <li> Scalable and Theory-grounded Optimization for Foundation Models: Pre-Training &amp; Post-training</li>
+        </ul>
+   
       </div>
       <br>
 
@@ -85,8 +90,8 @@ layout: base
           </li>
       </ul> {% endcomment %}
     </div>
-    <div class="col-md-2 vcenter idxHdr">
-      <img src="/images/me/2023-beijing.jpg" style="border-radius: 20px; margin: 10px; max-width: 280px;" alt="Me.">
+    <div class="col-md-4 vcenter idxHdr" style="display: flex; align-items: center; justify-content: center;">
+      <img src="/images/me/2023-beijing.jpg" style="border-radius: 20px; width: 100%; max-width: 320px; object-fit: cover;" alt="Me.">
     </div>
   </div>
 
