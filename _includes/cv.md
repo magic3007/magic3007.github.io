@@ -64,8 +64,8 @@ Yuxiang&nbsp;Zhao, <strong><a href='https://magic3007.github.io' target='_blank'
 2.
 </td>
 <td>
-<img src="images/publications/FPGA_FPGA2026_Wang.png" onerror="this.style.display='none'" class="publicationImg" />
-TDM Signal Grouping and Package Pin Assignment for 2.5D  Multi-FPGA Systems with Lookahead Placement <br>
+<a href='https://magic3007.github.io/data/publications/FPGA_FPGA2026_Wang/FPGA_FPGA2026_Wang.pdf' target='_blank'><img src="images/publications/FPGA_FPGA2026_Wang.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+TDM Signal Grouping and Package Pin Assignment for 2.5D  Multi-FPGA Systems with Lookahead Placement [<a href='https://magic3007.github.io/data/publications/FPGA_FPGA2026_Wang/FPGA_FPGA2026_Wang.pdf' target='_blank'>paper</a>] <br>
 <a href='https://tomjerry213.github.io' target='_blank'>Jiarui&nbsp;Wang</a>, Runzhe&nbsp;Tao, <strong><a href='https://magic3007.github.io' target='_blank'>Jing&nbsp;Mai</a></strong>, Xun&nbsp;Jiang, Shenghua&nbsp;Wang, Cuiliu&nbsp;Yang, Haoyu&nbsp;Jie, Kan&nbsp;Huang, Richard&nbsp;Y.&nbsp;Sun, and <a href='https://yibolin.com' target='_blank'>Yibo&nbsp;Lin</a><br>
 <em>FPGA 2026</em>  <br>
 
